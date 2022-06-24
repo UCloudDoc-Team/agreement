@@ -130,4 +130,4 @@
 
 <br>生效日期：2022年01月28日
 
-<br>历史版本：[《UCloud云服务法律声明及隐私政策》](https://docs.ucloud.cn/agreement/privacypolicy "悬停显示")(2021年3月30日版）
+<br>历史版本：[《UCloud云服务法律声明及隐私政策》](/agreement/privacypolicy "悬停显示")(2021年3月30日版）
