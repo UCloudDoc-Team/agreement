@@ -141,4 +141,4 @@
 <br>生效日期：2026年4月20日
 
 <br>历史版本：[《UCloud云计算技术服务框架协议》](/agreement/service_agreement "悬停显示")
-<br>历史版本：[《UCloud云计算技术服务框架协议》](/agreement/service_agreement2023 "悬停显示")
+<br>历史版本2023年：[《UCloud云计算技术服务框架协议》](/agreement/service_agreement2023 "悬停显示")
